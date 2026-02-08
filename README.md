@@ -164,7 +164,7 @@ It also helped me understand how raw logistics data can be transformed into **ac
 
 ---
 
-## 👩‍💻 Author
+## Author
 Abner Benitto M
 Aspiring Data Analyst | SQL | Power BI | Supply Chain Analytics  
 
